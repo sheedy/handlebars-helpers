@@ -48,7 +48,7 @@
     "matchkeys": "~0.1.3",
     "minimatch": "~0.2.12",
     "nap": "~0.7.11",
-    "sort-object": "0.0.5",
+    "sort-object": "0.3.2",
     "to": "~0.2.9"
   },
   "devDependencies": {
